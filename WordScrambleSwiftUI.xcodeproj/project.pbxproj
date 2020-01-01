@@ -13,7 +13,7 @@
 		BA8E175123BCA2C000E245EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA8E175023BCA2C000E245EF /* Assets.xcassets */; };
 		BA8E175423BCA2C000E245EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA8E175323BCA2C000E245EF /* Preview Assets.xcassets */; };
 		BA8E175723BCA2C000E245EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA8E175523BCA2C000E245EF /* LaunchScreen.storyboard */; };
-		BA8E175F23BCB62800E245EF /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = BA8E175E23BCB62700E245EF /* start.txt */; };
+		BA8E176123BCC4B200E245EF /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = BA8E176023BCC4B200E245EF /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		BA8E175323BCA2C000E245EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BA8E175623BCA2C000E245EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA8E175823BCA2C000E245EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BA8E175E23BCB62700E245EF /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = "../../HackingWithSwift/SwiftUI/project5-files/start.txt"; sourceTree = "<group>"; };
+		BA8E176023BCC4B200E245EF /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 				BA8E175023BCA2C000E245EF /* Assets.xcassets */,
 				BA8E175523BCA2C000E245EF /* LaunchScreen.storyboard */,
 				BA8E175823BCA2C000E245EF /* Info.plist */,
-				BA8E175E23BCB62700E245EF /* start.txt */,
+				BA8E176023BCC4B200E245EF /* start.txt */,
 				BA8E175223BCA2C000E245EF /* Preview Content */,
 			);
 			path = WordScrambleSwiftUI;
@@ -137,7 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA8E175723BCA2C000E245EF /* LaunchScreen.storyboard in Resources */,
-				BA8E175F23BCB62800E245EF /* start.txt in Resources */,
+				BA8E176123BCC4B200E245EF /* start.txt in Resources */,
 				BA8E175423BCA2C000E245EF /* Preview Assets.xcassets in Resources */,
 				BA8E175123BCA2C000E245EF /* Assets.xcassets in Resources */,
 			);
